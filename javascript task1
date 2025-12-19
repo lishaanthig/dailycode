@@ -1,1 +1,13 @@
-
+var red =true
+if(red==true)
+{
+    console.log("stop")
+}
+elseif(green==true)
+{
+    console.log("go")
+}
+elseif(yellow==true)
+{
+    console.log("wait")
+}
