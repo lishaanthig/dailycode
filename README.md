@@ -1,1 +1,3 @@
-here my daily coding activity showed
+## Daily JavaScript Practice
+This repository contains my daily JavaScript practice programs
+
