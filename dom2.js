@@ -17,7 +17,7 @@
             var box1value=Number(box1.value)
             var box2value=Number(box2.value)
             var total=  box1value+box2value
-            result.textcontent=total
+            result.textContent=total
         }
         
 
