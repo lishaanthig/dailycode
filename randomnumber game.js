@@ -1,6 +1,6 @@
 <h1> Guess the Number </h1>
 <input id="guess number">
-<button onclick="check">check</button>
+<button onclick="check()">check</button>
 <p id="result">you are Right/Wrong</p>
 <p id="score">score:10</p>
 <script>
@@ -20,7 +20,7 @@
 
         }
         else{
-            score=score-1
+            tscore=tscore-1
             result.textContent="Wrong"
             score.textContent="score:"+tscore
             alert("you lose")
