@@ -1,4 +1,4 @@
-h1>Guess the Number </h1>
+<h1> Guess the Number </h1>
 <input id="guess number">
 <button onclick="check">check</button>
 <p id="result">you are Right/Wrong</p>
