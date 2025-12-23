@@ -3,5 +3,8 @@
 <h1 class="yes">three</h1>
 <script>
     var h1=document.querySelectorAll(".yes")
-    console.log(h1)
+    for(i=0;i<h1.length;i=i+1)
+    {
+        console.log(h1[i].textContent
+    }
 </script>
